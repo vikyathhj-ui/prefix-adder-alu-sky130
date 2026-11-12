@@ -17,3 +17,6 @@ formal/*/
 
 # archived invalid flow runs (DECISIONS D-028)
 runs_*/
+
+# OS
+.DS_Store
