@@ -20,3 +20,6 @@ runs_*/
 
 # OS
 .DS_Store
+
+# editor
+*.swp
