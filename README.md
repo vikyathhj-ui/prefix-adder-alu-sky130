@@ -118,7 +118,7 @@ re-checks. `make help` lists the individual steps.
 
 ## AI assistance
 
-Developed with Claude Code; all results reproduced by Vikyath J with `make all`.
+The research, theoretical formulation, architectural design, and reproduction of results were independently carried out by Vikyath J, with Claude serving as an AI-assisted development tool.`make all`.
 
 ## License
 
